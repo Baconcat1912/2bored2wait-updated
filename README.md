@@ -18,6 +18,7 @@ A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver a 
 
 # 2Bored2Wait is not updated to 1.19. There are no plans to update. This repository is kept for posterity, but there will not be any future update here.
 # Other people are free to fork this repo and distribute updated copies according to the [licence](LICENSE) (GPL-3.0).
+# In this fork, I am currently working on updating to newer versions of Minecraft.
 
 </div>
 
